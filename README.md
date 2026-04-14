@@ -88,8 +88,6 @@ This project produces:
 
 ## Repository Structure
 
-## Project Structure
-
     adhd-eeg-explainability/
     ├─ README.md
     ├─ LICENSE
